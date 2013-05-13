@@ -10,7 +10,7 @@ Tile World is a browser-based MMORPG (massively multiplayer online role-playing 
 
 ## License
 
-Proprietary license.
+MIT License.
 
 Copyright (c) 2013 Stoke Games, LLC.
 
